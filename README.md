@@ -68,6 +68,10 @@ A Telegram bot for deploying and managing custom ERC20 token smart contracts on 
 
 ---
 
+
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/e57b5a1e-d84a-4805-93d3-5cfc68c2adc7" />
+
+
 ## Setup
 
 ### 1. Clone the repository
