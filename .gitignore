@@ -1,0 +1,20 @@
+# Environment variables — never commit real secrets
+.env
+
+# User session data (contains private keys and contract state)
+user/
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
